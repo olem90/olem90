@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ole Marius Rognan</h1>
+<h1 align="center">Hello 👋 I'm Ole Marius Rognan</h1>
 <h3 align="center">A frontend student at Noroff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olem90&label=Profile%20views&color=0e75b6&style=flat" alt="olem90" /> </p>
@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **I <3 animals**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:
+I am currently a front-end development student starting my second year at Noroff school of technology and digital media. I am 32 years old, and from Norway, and have lived most of my life in Trondheim, which is the city I am born and raised in. But I am currently living in Madrid with my girlfriend and my two bunnies. 
+</h3>
 <p align="left">
 </p>
 
