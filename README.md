@@ -4,6 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olem90&label=Profile%20views&color=0e75b6&style=flat" alt="olem90" /> </p>
 
 
+<h3 align="left">About me:
+I am currently a front-end development student starting my second year at Noroff school of technology and digital media. I am 32 years old, and from Norway, and have lived most of my life in Trondheim, which is the city I am born and raised in. But I am currently living in Madrid with my girlfriend and my two bunnies. 
+</h3>
+<p align="left">
+</p>
+
+<br>
+<br>
 
 - 🌱 I’m currently learning **Html, Css and javascript**
 
@@ -11,11 +19,7 @@
 
 - ⚡ Fun fact **I <3 animals**
 
-<h3 align="left">About me:
-I am currently a front-end development student starting my second year at Noroff school of technology and digital media. I am 32 years old, and from Norway, and have lived most of my life in Trondheim, which is the city I am born and raised in. But I am currently living in Madrid with my girlfriend and my two bunnies. 
-</h3>
-<p align="left">
-</p>
+- My portofolio webpage **https://startling-semolina-0810d6.netlify.app/**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
