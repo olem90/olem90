@@ -14,7 +14,7 @@ I am currently a front-end development student starting my second year at Noroff
 
 - I’m currently learning **Html, Css and javascript**
 
-- 📫 How to reach me **olemariusrognan@gmail.com**
+- 📫 How to reach me **olemariusrognan90@gmail.com**
 
 - My portofolio webpage **https://startling-semolina-0810d6.netlify.app/**
 
