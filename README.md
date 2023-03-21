@@ -5,7 +5,7 @@
 
 
 <h3 align="left">About me:
-I am currently a front-end development student starting my second year at Noroff school of technology and digital media. I am 32 years old(born in 1990), and from Norway, and have lived most of my life in Trondheim, which is the city I am born and raised in. But I am currently living in Madrid with my girlfriend and my two bunnies. 
+I am currently a front-end development student starting my second year at Noroff school of technology and digital media. I am 32 years old(born in 1990), and from Norway, and have lived most of my life in Trondheim, which is the city I am born and raised in. But I am currently living in Madrid with my girlfriend and our two bunnies. 
 </h3>
 <p align="left">
 </p>
