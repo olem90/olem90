@@ -12,7 +12,7 @@ I am currently a front-end development student starting my second year at Noroff
 
 <br>
 
-- I’m currently learning **Html, Css and javascript**
+- I’m currently learning **Html, Css, Javascript, Bootstrap, Scss and React**
 
 - 📫 How to reach me **olemariusrognan90@gmail.com**
 
