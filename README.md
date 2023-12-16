@@ -16,7 +16,8 @@ I am currently a front-end development student starting my second year at Noroff
 
 - 📫 How to reach me **olemariusrognan90@gmail.com**
 
-- My portofolio webpage **https://startling-semolina-0810d6.netlify.app/**
+- My first portfolio website **https://startling-semolina-0810d6.netlify.app/**
+- My second portfolio website **https://my-portfolio-olem90.netlify.app/**
 
 - ⚡ Fun fact **I <3 animals**
 
